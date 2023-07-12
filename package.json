@@ -1,0 +1,6 @@
+{
+  "homepage": "https://jsohndata.github.io/practice-html-starter",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
